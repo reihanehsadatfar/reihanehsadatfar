@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reihanehsadatfar
-- 👀 I’m interested in learing programming
+- 👀 I’m interested in learing, learning and learning!
 - 🌱 I’m currently learning c++
 
 <!---
